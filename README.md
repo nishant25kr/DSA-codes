@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/nishant25kr/DSA-codes/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant25kr/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nishant25kr/DSA-codes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nishant25kr/DSA-codes/tree/master/0485-max-consecutive-ones) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nishant25kr/DSA-codes/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant25kr/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
