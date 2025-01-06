@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nishant25kr/DSA-codes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nishant25kr/DSA-codes/tree/master/0485-max-consecutive-ones) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant25kr/DSA-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nishant25kr/DSA-codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishant25kr/DSA-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant25kr/DSA-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
