@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nishant25kr/DSA-codes/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nishant25kr/DSA-codes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nishant25kr/DSA-codes/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
