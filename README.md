@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nishant25kr/DSA-codes/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/nishant25kr/DSA-codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nishant25kr/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishant25kr/DSA-codes/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0073-set-matrix-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nishant25kr/DSA-codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nishant25kr/DSA-codes/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nishant25kr/DSA-codes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nishant25kr/DSA-codes/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
