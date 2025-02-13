@@ -1,28 +1,18 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> result;
-
-        for (int i = 0; i < n; i++) {
-            int count = 0;
-
-            // Count occurrences of nums[i]
-            for (int j = 0; j < n; j++) {
-                if (nums[i] == nums[j]) {
-                    count++;
-                }
+        vector<int>ls;
+        map<int ,int>mpp;
+        int n=nums.size();
+        int mini=(int)(n/3)+1;
+        for( int i=0;i<n;i++){
+            mpp[nums[i]]++;
+            if(mpp[nums[i]]==mini){
+                ls.push_back(nums[i]);
             }
-
-            // If it appears more than n/3 times, add to result
-            if (count > n / 3) {
-                // Ensure no duplicates are added
-                if (find(result.begin(), result.end(), nums[i]) == result.end()) {
-                    result.push_back(nums[i]);
-                }
-            }
-        }
-
-        return result;
+            if(ls.size()==2) break;
+        } 
+        sort(ls.begin(),ls.end());
+        return ls;
     }
 };
