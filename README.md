@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nishant25kr/DSA-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/nishant25kr/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0966-binary-subarrays-with-sum) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant25kr/DSA-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/nishant25kr/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant25kr/DSA-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/nishant25kr/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishant25kr/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishant25kr/DSA-codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
