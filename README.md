@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/0144-binary-tree-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nishant25kr/DSA-codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nishant25kr/DSA-codes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
