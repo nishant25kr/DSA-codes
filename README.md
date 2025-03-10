@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishant25kr/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishant25kr/DSA-codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishant25kr/DSA-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/nishant25kr/DSA-codes/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant25kr/DSA-codes/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nishant25kr/DSA-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishant25kr/DSA-codes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nishant25kr/DSA-codes/tree/master/0199-binary-tree-right-side-view) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
@@ -269,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishant25kr/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
