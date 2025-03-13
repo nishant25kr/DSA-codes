@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nishant25kr/DSA-codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nishant25kr/DSA-codes/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/nishant25kr/DSA-codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/nishant25kr/DSA-codes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishant25kr/DSA-codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nishant25kr/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishant25kr/DSA-codes/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/nishant25kr/DSA-codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant25kr/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishant25kr/DSA-codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
