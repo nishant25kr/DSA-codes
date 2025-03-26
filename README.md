@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nishant25kr/DSA-codes/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nishant25kr/DSA-codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nishant25kr/DSA-codes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nishant25kr/DSA-codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant25kr/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nishant25kr/DSA-codes/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nishant25kr/DSA-codes/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nishant25kr/DSA-codes/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/nishant25kr/DSA-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nishant25kr/DSA-codes/tree/master/0231-power-of-two) |
@@ -328,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/nishant25kr/DSA-codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
