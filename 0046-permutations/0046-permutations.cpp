@@ -19,6 +19,7 @@ public:
 
 
     vector<vector<int>> permute(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
         vector<int> ds;
         // int freq[nums.size()] = {0};
