@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nishant25kr/DSA-codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nishant25kr/DSA-codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant25kr/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/nishant25kr/DSA-codes/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant25kr/DSA-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/nishant25kr/DSA-codes/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishant25kr/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishant25kr/DSA-codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -341,4 +343,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nishant25kr/DSA-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nishant25kr/DSA-codes/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
