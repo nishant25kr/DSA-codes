@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/nishant25kr/DSA-codes/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/nishant25kr/DSA-codes/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishant25kr/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishant25kr/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishant25kr/DSA-codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nishant25kr/DSA-codes/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/nishant25kr/DSA-codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0073-set-matrix-zeroes) |
+| [0967-minimum-falling-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0967-minimum-falling-path-sum) |
 ## Tree
 |  |
 | ------- |
