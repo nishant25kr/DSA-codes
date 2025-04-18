@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nishant25kr/DSA-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nishant25kr/DSA-codes/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0890-lemonade-change](https://github.com/nishant25kr/DSA-codes/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/nishant25kr/DSA-codes/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0966-binary-subarrays-with-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/nishant25kr/DSA-codes/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
