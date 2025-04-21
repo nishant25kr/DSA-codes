@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nishant25kr/DSA-codes/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/nishant25kr/DSA-codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/nishant25kr/DSA-codes/tree/master/1250-longest-common-subsequence) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/nishant25kr/DSA-codes/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishant25kr/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/nishant25kr/DSA-codes/tree/master/0516-longest-palindromic-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/nishant25kr/DSA-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/nishant25kr/DSA-codes/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishant25kr/DSA-codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
