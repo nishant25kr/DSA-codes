@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/nishant25kr/DSA-codes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nishant25kr/DSA-codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nishant25kr/DSA-codes/tree/master/0322-coin-change) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nishant25kr/DSA-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishant25kr/DSA-codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/nishant25kr/DSA-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/nishant25kr/DSA-codes/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant25kr/DSA-codes/tree/master/0908-middle-of-the-linked-list) |
