@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0890-lemonade-change](https://github.com/nishant25kr/DSA-codes/tree/master/0890-lemonade-change) |
+| [0941-sort-array-by-parity](https://github.com/nishant25kr/DSA-codes/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/nishant25kr/DSA-codes/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nishant25kr/DSA-codes/tree/master/0967-minimum-falling-path-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nishant25kr/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nishant25kr/DSA-codes/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nishant25kr/DSA-codes/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/nishant25kr/DSA-codes/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/nishant25kr/DSA-codes/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nishant25kr/DSA-codes/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishant25kr/DSA-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant25kr/DSA-codes/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/nishant25kr/DSA-codes/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nishant25kr/DSA-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishant25kr/DSA-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
